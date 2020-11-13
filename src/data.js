@@ -7,7 +7,7 @@ export const recipes = [
       { description: "Add the teabag", time: 0},
       { description: "Stir", time: 3 },
       { description: "Remove the teabag", time: 0 },
-     { description: "Enjoy!", time: 0}
+      { description: "Enjoy!", time: 0}
     ],
     ingredients: {
       grains: ["chocolate malt", "crystal malt"],
@@ -24,7 +24,7 @@ export const recipes = [
       { description: "Add the teabag", time: 0},
       { description: "Stir", time: 3 },
       { description: "Remove the teabag", time: 0 },
-     { description: "Enjoy!", time: 0}
+      { description: "Enjoy!", time: 0}
     ],
     ingredients: {
       grains: ["chocolate malt", "crystal malt"],
@@ -41,7 +41,7 @@ export const recipes = [
       { description: "Add the teabag", time: 0},
       { description: "Stir", time: 3 },
       { description: "Remove the teabag", time: 0 },
-     { description: "Enjoy!", time: 0}
+      { description: "Enjoy!", time: 0}
     ],
     ingredients: {
       grains: ["chocolate malt", "crystal malt"],
@@ -58,7 +58,7 @@ export const recipes = [
       { description: "Add the teabag", time: 0},
       { description: "Stir", time: 3 },
       { description: "Remove the teabag", time: 0 },
-     { description: "Enjoy!", time: 0}
+      { description: "Enjoy!", time: 0}
     ],
     ingredients: {
       grains: ["chocolate malt", "crystal malt"],
